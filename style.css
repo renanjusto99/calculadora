@@ -1,0 +1,94 @@
+body{
+    font-family: arial;
+    background-color: rgb(53, 53, 53);
+
+
+
+}
+
+header{
+    text-align: center;
+    color: white;
+    font-weight: white;
+    
+}
+
+section{
+    background-color: rgba(0, 0, 0, 0.8);
+    width: 320px;
+    border-radius: 5%;
+    padding: 30px 3px;
+    margin: auto;
+    margin-top: 50px;
+    font-weight: bold;
+}
+
+
+
+h2{
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    padding: 0;
+    margin: 10px;
+}
+
+.espaco_para_resposta{
+    background-color: rgb(255, 255, 255);
+    width: 280px;
+    margin: auto;
+    height: 50px;
+    line-height: 50px;
+    font-size: 20px;
+    text-align: center;
+
+}
+
+
+div#numeros{
+    padding: 10px;
+    text-align: center;
+}
+
+input{
+    border-radius: 20%;
+    height: 60px;
+    width: 60px;
+    margin: 5px;
+    background-color: rgb(172, 172, 172);
+    border: 1px solid black;
+
+
+    font-size: 25px;
+    font-weight: bold;
+}
+
+input:hover{
+    background-color: rgb(199, 199, 199);
+    
+}
+
+input#del{
+    font-size: 20px;
+}
+
+input#menos{
+    font-size: 35px;
+}
+
+.botao_azul{
+    background-color: rgb(85, 175, 248);
+}
+
+.botao_azul:hover{
+    background-color: rgb(122, 185, 236);
+
+}
+
+
+footer{
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+}
